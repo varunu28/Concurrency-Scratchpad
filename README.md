@@ -1,2 +1,2 @@
 # Concurrency-Scratchpad
-Code for exploring various concurrency techniques in Java
+Code for exploring various concurrency techniques in Java & Go
