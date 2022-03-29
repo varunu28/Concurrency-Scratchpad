@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.stream.IntStream;
 
-public class Runner {
+public class ProducerConsumerRunner {
 
   public static void main(String[] args) {
     BoundedTaskQueue boundedTaskQueue = BoundedTaskQueue.getInstance();
